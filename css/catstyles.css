@@ -1,0 +1,21 @@
+h1 {
+  text-shadow: 5px 5px #558ABB;
+  font-size: 50px;
+  text-align: center;
+}
+
+p {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+h3 {
+  font-weight: lighter;
+}
+
+hr {
+  height: 10px;
+  border-style: solid;
+  border-color: red;
+  background: red; 
+}
