@@ -17,5 +17,10 @@ hr {
   height: 10px;
   border-style: solid;
   border-color: red;
-  background: red; 
+  background: red;
+}
+
+.dark-theme {
+  background-color: black;
+  color: white;
 }
