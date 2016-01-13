@@ -24,3 +24,7 @@ hr {
   background-color: black;
   color: white;
 }
+
+#resettheme {
+  display: none;
+}
